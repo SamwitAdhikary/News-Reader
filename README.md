@@ -2,6 +2,7 @@
 
 ## Working!
 - It is a simple python program which lets you help to fetch out and read news headlines with the help of NEWS API. 
+- Hope you like this project.
 
 ### Connect with me:
 
