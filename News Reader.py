@@ -12,7 +12,7 @@ def speak(audio):
 
 if __name__ == "__main__":
     speak("News For Today... Lets Begin...")
-    url = "http://newsapi.org/v2/top-headlines?country=in&apiKey=a33b127053db4331819fc90114334461"
+    url = "YOUR NEWS API KEY (HEADLINE)"
     news = requests.get(url).text
     news_dict = json.loads(news)
     # print(news_dict["articles"])

@@ -1,9 +1,7 @@
-### Hi there, I'm Samwit Adhikary 👋
+### News Reader 👋
 
-## I'm a Student, Developer, and Fast Learner!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and sing.
+## Working!
+- It is a simple python program which lets you help to fetch out and read news headlines with the help of NEWS API. 
 
 ### Connect with me:
 
